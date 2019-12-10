@@ -1,6 +1,7 @@
 ## react-context-language-switcher
 
 Practicing using React Context.
+
 ![Screenshot](https://github.com/andreysaf/react-context-language-switcher/blob/master/screen.png?raw=true "Screenshot")
 
 In the project directory, you can run:
